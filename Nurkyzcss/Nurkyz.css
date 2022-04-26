@@ -1,0 +1,47 @@
+
+/* HEADER */ 
+nav{ 
+    display: flex; 
+    justify-content: space-between; 
+    padding: 10px 20px; 
+    font-weight: 500; 
+} 
+nav .svg{ 
+    width: 40%; 
+    margin: auto; 
+} 
+nav .menu{ 
+    display: flex; 
+    justify-content: end; 
+    margin:auto 0; 
+} 
+ 
+nav a{ 
+    color: #000; 
+    margin-left: 50px; 
+}
+
+/* footer */
+.appstore{
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.wrapper{
+       background: linear-gradient(76.02deg, #FF9D2D 1.66%, #FFD877 93.21%);
+       width: 1900px;
+       height: 137px;
+       display: flex;
+       justify-content: end;
+       justify-content: space-around;
+       align-items: center;
+}
+
+.icon img {
+    margin-right: 20px;
+}
+p{
+font-family: "Kochasan";
+}
+
