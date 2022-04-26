@@ -146,35 +146,3 @@ main .container{
     background-color: #E58311;
     color: white;
 }
-
-/* BOX */
-
-.box{
-    display: flex;
-    justify-content: space-around;
-}
-.box-one{
-    width: 40%;
-    background-color: #e5821125;
-    padding: 20px 10px;
-}
-.box-two{
-    width: 40%;
-    background-color: #e5821123;
-    padding: 30px 10px;
-}
-.box .row{
-    display: flex;
-    justify-content: center;
-}
-.box .description{
-    width: 50%;
-}
-.box .button{
-    margin-top: 40px;
-}
-.box a{
-    border: 2px solid #E58211;
-    padding: 10px 20px;
-    color: #E58211;
-}
