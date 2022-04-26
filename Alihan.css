@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Kodchasan:wght@200;300;400;500;600;700&display=swap');
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{ 
+    display: flex; 
+    justify-content: space-between; 
+    padding: 10px 20px; 
+    font-weight: 500; 
+} 
+nav .svg{ 
+    width: 40%; 
+    margin: auto; 
+} 
+nav .menu{ 
+    display: flex; 
+    justify-content: end; 
+    margin:auto 0; 
+} 
+ 
+nav a{ 
+    color: #000; 
+    margin-left: 50px;
+    text-decoration: none;
+}
+
+.title_text h2{
+    width: 285px;
+    margin-left: 60px;
+}
+
+.box{ 
+    display: flex; 
+    justify-content: space-around; 
+    margin-bottom: 60px;
+} 
+.box-one{ 
+    width: 40%; 
+    background-color: #e5821125; 
+    padding: 20px 10px; 
+} 
+.box-two{ 
+    width: 40%; 
+    background-color: #e5821123; 
+    padding: 30px 10px; 
+} 
+.box .row{ 
+    display: flex; 
+    justify-content: center; 
+} 
+.box .description{ 
+    font-size: 20px;
+    width: 50%; 
+} 
+.box .button{ 
+    margin-top: 40px; 
+} 
+.box a{ 
+    border: 2px solid #E58211; 
+    padding: 10px 20px; 
+    color: #E58211; 
+    text-decoration: none;
+}
